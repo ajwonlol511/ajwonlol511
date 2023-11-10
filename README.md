@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... hacking 
 - 🌱 I’m currently learning ... how to hack 
 - 💞️ I’m looking to collaborate on ... github
-- 📫 How to reach me is my gmail awilkinsjr@acsdny.org say i got get from github 
+- 📫 How to reach me is my gmail awilkinsjr@acsdny.org say i got it  from github 
 
 <!---
 ajwonlol511/ajwonlol511 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
